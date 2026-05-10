@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>VIRGO STAYS</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container py-5">
+
+  <h1 class="text-center mb-4">Virgo Stays</h1>
+
+  <p class="text-center">
+    Premium Corporate Homestays in Bangalore
+  </p>
+
+  <div class="card mx-auto" style="width: 22rem;">
+
+    <img src="images/room1.jpg" class="card-img-top">
+
+    <div class="card-body">
+
+      <h5 class="card-title">
+        Whitefield Studio
+      </h5>
+
+      <p class="card-text">
+        Airy corporate stay near ITPL with Wi-Fi and workspace.
+      </p>
+
+      <a href="https://wa.me/919611095131"
+         class="btn btn-success">
+         Book on WhatsApp
+      </a>
+
+    </div>
+
+  </div>
+
+</div>
+
+</body>
+</html>
